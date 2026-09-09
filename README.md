@@ -1,4 +1,4 @@
-jsp-session-shopping-cart
+                                  JSP Session-Driven Shopping Cart 🛒
 A Java JSP-based session-driven shopping cart application demonstrating authentication, session management, product selection, cart operations, and checkout.
 
 JSP Session-Driven Shopping Cart 🛒
