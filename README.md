@@ -30,7 +30,10 @@ JavaScript
 Tailwind CSS
 HTTP Session
 Apache Tomcat
+
+
 📂 Project Structure
+
 jsp-session-shopping-cart/
 │
 ├── index.jsp
@@ -42,10 +45,12 @@ jsp-session-shopping-cart/
 ├── header.jsp
 ├── footer.jsp
 
+
+
 🔑 Demo Login
 The current application uses demonstration credentials:
 
-Username: student
+Username: admin
 Password: 1234
 ⚠️ These credentials are intended only for demonstration and educational purposes.
 
